@@ -12,4 +12,6 @@
 ![image](https://github.com/user-attachments/assets/c801b174-fc47-454b-9a87-79ccffb54af2)
 8. DNS
 ![image](https://github.com/user-attachments/assets/87f7d468-4d4c-4570-8fb0-6edcaa998815)
+9. Kafka
+![image](https://github.com/user-attachments/assets/48cbe1f9-1428-4960-ac21-64adaf5bf633)
 
