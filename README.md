@@ -10,4 +10,6 @@
 ![image](https://github.com/user-attachments/assets/ffde7095-d24b-4a9f-8bf6-09e65352ca8e)
 7. 내부 서비스간 흐름
 ![image](https://github.com/user-attachments/assets/c801b174-fc47-454b-9a87-79ccffb54af2)
+8. DNS
+![image](https://github.com/user-attachments/assets/87f7d468-4d4c-4570-8fb0-6edcaa998815)
 
